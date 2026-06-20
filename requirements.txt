@@ -1,0 +1,10 @@
+pandas
+requests
+streamlit
+python-dotenv
+feedparser
+scikit-learn
+sentence-transformers
+bs4
+ipykernel
+python-docx
